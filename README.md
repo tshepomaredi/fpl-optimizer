@@ -44,6 +44,11 @@ Fantasy Premier League is a popular fantasy football game where participants bui
   - `threat`: 0.0004
   - `bps`: 0.0080
   - `ict_index`: -0.0052
+ 
+  The graph below shows the effect/importance of each feature on the predictions by the coefficient values.
+ 
+  <img src="feature_importance.png" alt="Results" width="500">
+
 
 ## Selected Starting 11
 
